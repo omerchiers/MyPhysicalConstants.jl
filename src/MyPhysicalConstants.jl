@@ -6,7 +6,10 @@ export c0,
        h,
        ħ,
        kb,
-       vf_au
+       vf_au,
+       electron,
+       epsilon0,
+       m0
 
 # Physical constants
 
@@ -25,6 +28,15 @@ const kb = 1.38064852e-23
 
 " Fermi velocity for gold in rad m s^{-1} "
 const vf_au = 1.4e6*2.0*pi
+
+" Elementary charge in C "
+const electron = 1.60217662e-19
+
+" Permittivity of vacumm in m^{-3} kg^{-1} s^4 A^2"
+const epsilon0  = 8.85418782e-12
+
+" Free electron mass in kg"
+const m0  = 9.10938356e-31
 
 
 end # module
