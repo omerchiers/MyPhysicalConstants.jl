@@ -1,0 +1,6 @@
+authors = ["Olivier Merchiers <omerchiers@gmail.com>"]
+name = "MyPhysicalConstants"
+uuid = "03bd0ab0-1009-11e9-287f-65bf770f7c3e"
+version = "0.1.0"
+
+[deps]
