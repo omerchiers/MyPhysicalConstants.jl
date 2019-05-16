@@ -7,6 +7,7 @@ export c0,
        ħ,
        kb,
        vf_au,
+       vf_ag,
        electron,
        epsilon0,
        m0
@@ -28,6 +29,9 @@ const kb = 1.38064852e-23
 
 " Fermi velocity for gold in rad m s^{-1} "
 const vf_au = 1.4e6*2.0*pi
+
+" Fermi velocity for silver in rad m s^{-1} "
+const vf_ag = 1.36e6*2.0*pi
 
 " Elementary charge in C "
 const electron = 1.60217662e-19
