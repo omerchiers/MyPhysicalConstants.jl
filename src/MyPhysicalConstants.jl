@@ -15,7 +15,7 @@ export c0,
 # Physical constants
 
 " Speed of light in vacuum in m/s "
-const c0    = 299792458
+const c0    = 299792458.0
 
 " Stefan-Boltzmann's constant in W m^{-2} K^{-4} "
 const sigma = 5.670367e-8
