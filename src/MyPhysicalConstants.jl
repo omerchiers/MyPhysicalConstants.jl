@@ -27,11 +27,11 @@ const ħ = 1.0545718e-34
 " Boltzmann constant in m^2 kg s^{-2} K^{-1} "
 const kb = 1.38064852e-23
 
-" Fermi velocity for gold in rad m s^{-1} "
-const vf_au = 1.4e6*2.0*pi
+" Fermi velocity for gold in m s^{-1} "
+const vf_au = 1.4e6
 
-" Fermi velocity for silver in rad m s^{-1} "
-const vf_ag = 1.36e6*2.0*pi
+" Fermi velocity for silver in m s^{-1} "
+const vf_ag = 1.36e6
 
 " Elementary charge in C "
 const electron = 1.60217662e-19
